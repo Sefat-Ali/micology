@@ -1,0 +1,417 @@
+@media (min-width: 279px) and (max-width: 319px) {
+  /*css start*/
+  /*header section start*/
+  .header-section .menu .navbar-toggler {
+    border: 1px solid #fff;
+  }
+  .header-section .menu .navbar-toggler .fa-bars {
+    color: #fff;
+  }
+  .header-section .menu .d-flex {
+    width: 245px;
+  }
+  .header-section .banner .text {
+    padding: 0px 0px 0px 20px;
+  }
+  .header-section .banner .text h1 {
+    font-size: 60px;
+    line-height: 70px;
+  }
+  .header-section .banner .text p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  /*header section end*/
+  /*dance-section star*/
+  .dance-section {
+    padding: 0px 0px;
+  }
+  .dance-section .title {
+    padding: 40px 0px;
+  }
+  .dance-section .title h1 {
+    font-size: 50px;
+    line-height: 36px;
+  }
+  .dance-section .title p {
+    padding: 20px 0px 20px;
+    font-size: 14px;
+    line-height: 24px;
+  }
+  /*dance-section end*/
+  /*pricing section start*/
+  .pricing-section {
+    padding: 20px 0px;
+  }
+  .pricing-section .title {
+    padding: 40px 20px;
+  }
+  .pricing-section .title h1 {
+    font-size: 42px;
+    line-height: 52px;
+  }
+  .pricing-section .title p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .pricing-section .card .card-img-top {
+    margin: 15px 80px 0px;
+  }
+  /*pricing section end*/
+  /*dance-2 start*/
+  .dance-2 .title {
+    padding: 0px 20px 0px 20px;
+  }
+  .dance-2 .title h1 {
+    font-size: 32px;
+    line-height: 42px;
+  }
+  .dance-2 .title p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  /*dance-2 end*/
+  /*statistics section section*/
+  .statistics .text {
+    padding: 0px 30px;
+  }
+  .statistics .text h1 {
+    font-size: 36px;
+    line-height: 46px;
+  }
+  statistics .text p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  /*statistics section end*/
+  /*herbert section start*/
+  .herbert .herbert-text {
+    padding: 30px 25px;
+  }
+  .herbert .herbert-text p {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .herbert .herbert-text h1 {
+    font-size: 33px;
+    line-height: 43px;
+  }
+  /*herbert section end*/
+  /*subscribe-section start*/
+  .subscribe-section .inner-text {
+    padding: 10px 45px;
+  }
+  .subscribe-section .inner-text h1 {
+    font-size: 38px;
+    line-height: 48px;
+  }
+  .subscribe-section .inner-text p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .subscribe-section form {
+    margin: 10px 4px 10px 4px;
+    width: 260px;
+    height: 45px;
+  }
+  .subscribe-section form button {
+    padding: 10px 2px;
+  }
+  /*subscribe-section end*/
+  /*footer-section start*/
+  .footer-section .t {
+    padding: 0px 0px 0px 0px;
+    text-align: center;
+  }
+  .social-icons ul {
+    margin: 0px;
+    text-align: center;
+  }
+  .footer-section .line ul {
+    text-align: center;
+  }
+  /*footer-section end*/
+  /*css end*/
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+  /*css start*/
+  /*header section start*/
+  .header-section .menu .navbar-toggler {
+    border: 1px solid #fff;
+  }
+  .header-section .menu .navbar-toggler .fa-bars {
+    color: #fff;
+  }
+  .header-section .menu .d-flex {
+    width: 245px;
+  }
+  .header-section .banner .text {
+    padding: 0px 26px 0px 20px;
+  }
+  .header-section .banner .text h1 {
+    font-size: 60px;
+    line-height: 70px;
+  }
+  .header-section .banner .text p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  /*header section end*/
+  /*dance-section star*/
+  .dance-section {
+    padding: 0px 0px;
+  }
+  .dance-section .title {
+    padding: 40px 0px;
+  }
+  .dance-section .title h1 {
+    font-size: 50px;
+    line-height: 36px;
+  }
+  .dance-section .title p {
+    padding: 20px 0px 20px;
+    font-size: 14px;
+    line-height: 24px;
+  }
+  /*dance-section end*/
+  /*pricing section start*/
+  .pricing-section {
+    padding: 20px 0px;
+  }
+  .pricing-section .title {
+    padding: 40px 20px;
+  }
+  .pricing-section .title h1 {
+    font-size: 42px;
+    line-height: 52px;
+  }
+  .pricing-section .title p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .pricing-section .card .card-img-top {
+    transform: translate(142px, 10px);
+  }
+  /*pricing section end*/
+  /*dance-2 start*/
+  .dance-2 .title {
+    padding: 0px 20px 0px 20px;
+  }
+  .dance-2 .title h1 {
+    font-size: 32px;
+    line-height: 42px;
+  }
+  .dance-2 .title p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  /*dance-2 end*/
+  /*statistics section section*/
+  .statistics .text {
+    padding: 0px 30px;
+  }
+  .statistics .text h1 {
+    font-size: 36px;
+    line-height: 46px;
+  }
+  statistics .text p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  /*statistics section end*/
+  /*herbert section start*/
+  .herbert .herbert-text {
+    padding: 30px 25px;
+  }
+  .herbert .herbert-text p {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .herbert .herbert-text h1 {
+    font-size: 33px;
+    line-height: 43px;
+  }
+  /*herbert section end*/
+  /*subscribe-section start*/
+  .subscribe-section .inner-text {
+    padding: 10px 45px;
+  }
+  .subscribe-section .inner-text h1 {
+    font-size: 38px;
+    line-height: 48px;
+  }
+  .subscribe-section .inner-text p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .subscribe-section form {
+    margin: 10px 40px 10px 30px;
+    width: 300px;
+    height: 45px;
+  }
+  .subscribe-section form button {
+    padding: 10px 10px;
+  }
+  /*subscribe-section end*/
+  /*footer-section start*/
+  .footer-section .t {
+    padding: 0px 0px 0px 0px;
+    text-align: center;
+  }
+  .social-icons ul {
+    margin: 0px;
+    text-align: center;
+  }
+  .footer-section .line ul {
+    text-align: center;
+  }
+  /*footer-section end*/
+  /*css end*/
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  /*css start*/
+  /*header section start*/
+  .header-section .menu .navbar-toggler {
+    border: 1px solid #fff;
+  }
+  .header-section .menu .navbar-toggler .fa-bars {
+    color: #fff;
+  }
+  .header-section .menu .d-flex {
+    width: 270px;
+  }
+  .header-section .banner .text {
+    padding: 0px 388px 0px 20px;
+  }
+  .header-section .banner .text h1 {
+    font-size: 60px;
+    line-height: 70px;
+  }
+  .header-section .banner .text p {
+    font-size: 16px;
+    line-height: 26px;
+  }
+  /*header section end*/
+  /*dance-section star*/
+  .dance-section {
+    padding: 0px 0px;
+  }
+  .dance-section .title {
+    padding: 40px 130px;
+  }
+  .dance-section .title h1 {
+    font-size: 50px;
+    line-height: 36px;
+  }
+  .dance-section .title p {
+    padding: 20px 0px 20px;
+    font-size: 16px;
+    line-height: 26px;
+  }
+  .dance-section .card-body {
+  }
+  .dance-section .card-body .card-title {
+    font-size: 40px;
+    line-height: 50px;
+  }
+  .dance-section .card-body .card-text {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  /*dance-section end*/
+  /*pricing section start*/
+  .pricing-section {
+    padding: 20px 0px;
+  }
+  .pricing-section .title {
+    padding: 40px 20px;
+  }
+  .pricing-section .title h1 {
+    font-size: 42px;
+    line-height: 52px;
+  }
+  .pricing-section .title p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .pricing-section .card .card-img-top {
+    margin: 15px 140px 0px;
+  }
+  /*pricing section end*/
+  /*dance-2 start*/
+  .dance-2 .title {
+    padding: 0px 20px 0px 20px;
+  }
+  .dance-2 .title h1 {
+    font-size: 32px;
+    line-height: 42px;
+  }
+  .dance-2 .title p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  /*dance-2 end*/
+  /*statistics section section*/
+  .statistics .text {
+    padding: 0px 30px;
+  }
+  .statistics .text h1 {
+    font-size: 36px;
+    line-height: 46px;
+  }
+  statistics .text p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  /*statistics section end*/
+  /*herbert section start*/
+  .herbert .herbert-text {
+    padding: 30px 25px;
+  }
+  .herbert .herbert-text p {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .herbert .herbert-text h1 {
+    font-size: 33px;
+    line-height: 43px;
+  }
+  /*herbert section end*/
+  /*subscribe-section start*/
+  .subscribe-section .inner-text {
+    padding: 10px 45px;
+  }
+  .subscribe-section .inner-text h1 {
+    font-size: 38px;
+    line-height: 48px;
+  }
+  .subscribe-section .inner-text p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .subscribe-section form {
+    margin: 20px 0px 0px 20px;
+    width: 700px;
+    height: 55px;
+  }
+  .subscribe-section form button {
+    padding: 10px 25px;
+  }
+  /*subscribe-section end*/
+  /*footer-section start*/
+  .footer-section .t {
+    padding: 0px 0px 0px 0px;
+    text-align: center;
+  }
+  .social-icons ul {
+    margin: 0px;
+    text-align: center;
+  }
+  .footer-section .line ul {
+    text-align: center;
+  }
+  /*footer-section end*/
+  /*css end*/
+}

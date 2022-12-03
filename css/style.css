@@ -1,0 +1,460 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Oswald", sans-serif;
+}
+a,
+a:hover {
+  text-decoration: none;
+}
+/*header section css code start here*/
+.header-section {
+  width: 100%;
+}
+.header-section .menu {
+  width: 100%;
+  background: #282828;
+}
+.header-section .menu .navbar .navbar-nav .nav-item .nav-link {
+  font-family: "Oswald", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 500;
+  color: #fff;
+  text-transform: uppercase;
+}
+.header-section .menu .form-control:focus {
+  color: #212529;
+  background-color: #fff;
+  border-color: #86b7fe;
+  outline: 0;
+  box-shadow: inset 0 0 0 0.25rem #f8f9fa;
+}
+.header-section .menu .navbar .navbar-nav .nav-item .nav-link:focus {
+  color: #e8631c;
+}
+.header-section .menu .d-flex {
+  text-align: center;
+  width: 280px;
+  height: 40px;
+  background: #fff;
+  display: flex;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.header-section .d-flex .form-control {
+  flex: 1;
+  border: none;
+  outline: none;
+}
+.header-section .d-flex .btn-outline-success {
+  background: #e8631c;
+  padding: 10px 15px;
+  margin: 0px -12px 0px 0px;
+  border: none;
+  outline: none;
+  color: #fff;
+  text-transform: uppercase;
+  border-radius: 0px;
+}
+.header-section .banner {
+  width: 100%;
+  padding: 80px 0px;
+  /*height: 100vh;*/
+  background: url("../images/Place Your Image Here.png") center top no-repeat;
+  background-size: cover;
+}
+.header-section .banner .text {
+  width: 100%;
+  padding: 200px 850px 0px 70px;
+}
+.header-section .banner .text h1 {
+  font-size: 76px;
+  line-height: 86px;
+  color: #fff;
+}
+.header-section .banner .text p {
+  font-size: 16px;
+  line-height: 26px;
+  color: #fff;
+}
+.header-section .banner .text .btn-primary {
+  padding: 10px 20px 10px;
+  font-size: 15px;
+  line-height: 25px;
+  color: #fff;
+  background: #e8631c;
+  text-transform: uppercase;
+  border: 1px solid #e8631c;
+  border-radius: 4px;
+}
+.header-section .banner .text .btn-primary:hover,
+.header-section .banner .text .btn-primary:focus {
+  background: transparent;
+  color: #e8631c;
+  border: 1px solid #e8631c;
+}
+/*header section css code end here*/
+/*dance-section css code start here*/
+.dance-section {
+  width: 100%;
+  padding: 80px 0px;
+  background: url("../images/s2-i0.png") center top no-repeat;
+  background-size: cover;
+}
+.dance-section .title {
+  width: 100%;
+  padding: 40px 200px;
+  text-align: center;
+}
+.dance-section .title h1 {
+  font-family: "Oswald", sans-serif;
+  font-size: 56px;
+  line-height: 66px;
+  color: #fff;
+}
+.dance-section .title p {
+  font-size: 26px;
+  line-height: 36px;
+  color: #fff;
+}
+.dance-section .card {
+  width: 100%;
+  border: 1px solid #303030;
+  border-radius: 0px;
+}
+.dance-section .card-body {
+  width: 100%;
+  background: #303030;
+  text-align: center;
+}
+.dance-section .card-body .card-title {
+  font-family: "Oswald", sans-serif;
+  font-size: 25px;
+  line-height: 35px;
+  color: #fff;
+  text-transform: uppercase;
+}
+.dance-section .card-body .card-text {
+  font-size: 16px;
+  line-height: 26px;
+  color: #fff;
+}
+/*dance section css code end here*/
+/*pricing section css code start here*/
+.pricing-section {
+  width: 100%;
+  padding: 80px 0px;
+  background: url("../images/s3-i0,png.png") center top no-repeat;
+  background-size: cover;
+}
+.pricing-section .title {
+  width: 100%;
+  padding: 40px 200px;
+  text-align: center;
+}
+.pricing-section .title h1 {
+  font-family: "Oswald", sans-serif;
+  font-size: 56px;
+  line-height: 66px;
+  color: #fff;
+}
+.pricing-section .title p {
+  font-size: 26px;
+  line-height: 36px;
+  color: #fff;
+}
+.pricing-section .card {
+  width: 100%;
+  background: #e8631c;
+  border: 1px solid #e8631c;
+  border-radius: 6px;
+  text-align: center;
+}
+.pricing-section .card .card-img-top {
+  width: 100px;
+  height: 110px;
+  transform: translate(125px, 10px);
+}
+.pricing-section .card-body .card-title {
+  font-family: "Oswald", sans-serif;
+  font-size: 25px;
+  line-height: 35px;
+  color: #fff;
+  text-transform: uppercase;
+}
+.pricing-section .card-body .card-text {
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+}
+.pricing-section .card-body .btn-primary {
+  padding: 10px 90px 10px;
+  color: #fff;
+  background: #303030;
+  border: 1px solid #303030;
+  border-radius: 4px;
+}
+.pricing-section .card-body .btn-primary:hover,
+.pricing-section .card-body .btn-primary:focus {
+  color: #fff;
+  background: #e8631c;
+  border: 1px solid #fff;
+}
+/*pricing section css code end here*/
+/*.dance-2 section css code start here*/
+.dance-2 {
+  width: 100%;
+  background: url("../images/s4-i0png.png") center top no-repeat;
+  background-size: cover;
+}
+.dance-2 .title {
+  width: 100%;
+  padding: 270px 202px 80px 35px;
+}
+.dance-2 .title h1 {
+  font-size: 45px;
+  line-height: 55px;
+  text-transform: uppercase;
+  color: #fff;
+}
+.dance-2 .title p {
+  font-size: 16px;
+  line-height: 26px;
+  color: #fff;
+}
+.dance-2 .title .btn-primary {
+  padding: 10px 35px 10px;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+  text-transform: uppercase;
+  background: #303030;
+  border: 1px solid #303030;
+  border-radius: 3px;
+}
+.dance-2 .title .btn-primary:hover,
+.dance-2 .title .btn-primary:focus {
+  color: #fff;
+  border: 1px solid #fff;
+  background: transparent;
+}
+/*.dance-2 section css code end here*/
+/*statistics section css code start here*/
+.statistics {
+  width: 100%;
+  padding: 80px 0px;
+  background: #303030;
+}
+.statistics .text {
+  width: 100%;
+  text-align: center;
+  padding: 0px 332px;
+}
+.statistics .text h1 {
+  font-size: 56px;
+  line-height: 66px;
+  color: #fff;
+}
+.statistics .text p {
+  font-size: 16px;
+  line-height: 26px;
+  color: #fff;
+}
+.statistics .number {
+  width: 100%;
+  text-align: center;
+  padding: 40px 0px;
+}
+.statistics .number .project {
+  font-size: 35px;
+  line-height: 45px;
+  color: #fff;
+}
+.statistics .number .number-0 {
+  font-size: 35px;
+  line-height: 45px;
+  color: #fff;
+}
+.statistics .number .number-2 {
+  font-size: 35px;
+  line-height: 45px;
+  color: #fff;
+}
+.statistics .number p {
+  font-size: 16px;
+  line-height: 26px;
+  color: #fff;
+}
+/*statistics section css code end here*/
+/*statistics section css code start here*/
+.herbert {
+  width: 100%;
+  padding: 80px 0px;
+  background: url("../images/s5-i0.png") center top no-repeat;
+  background-size: cover;
+}
+.herbert .herbert-text {
+  width: 100%;
+  text-align: center;
+  padding: 300px 365px;
+}
+.herbert .herbert-text p {
+  font-size: 20px;
+  line-height: 30px;
+  color: #fff;
+}
+.herbert .herbert-text h1 {
+  font-size: 35px;
+  line-height: 45px;
+  font-weight: 600;
+  color: #fff;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+/*statistics section css code end here*/
+/*subscribe section css code start here*/
+.subscribe-section {
+  width: 100%;
+  padding: 80px 0px;
+  background: url("../images/s.png") center top no-repeat;
+  background-size: cover;
+}
+.subscribe-section .inner-text {
+  width: 100%;
+  text-align: center;
+  padding: 10px 345px;
+}
+.subscribe-section .inner-text h1 {
+  font-size: 45px;
+  line-height: 55px;
+  color: #fff;
+  text-transform: uppercase;
+}
+.subscribe-section .inner-text p {
+  font-size: 16px;
+  line-height: 26px;
+  color: #fff;
+}
+.subscribe-section form {
+  text-align: center;
+  width: 600px;
+  height: 55px;
+  background: #fff;
+  display: flex;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.subscribe-section form input {
+  flex: 1;
+  border: none;
+  outline: none;
+}
+.subscribe-section form button {
+  background: #303030;
+  padding: 10px 50px;
+  margin: 0px -12px 0px 0px;
+  border: none;
+  outline: none;
+  color: #fff;
+  text-transform: uppercase;
+}
+/*subscribe section css code end here*/
+/*footer-section section css code start here*/
+.footer-section {
+  width: 100%;
+  padding: 80px 0px;
+  background: #303030;
+}
+.social-icons {
+  width: 100%;
+  padding: 10px 0px;
+}
+.footer-section .t {
+  width: 100%;
+  padding: 0px 30px 0px 0px;
+}
+.footer-section .t h2 {
+  font-size: 30px;
+  line-height: 40px;
+  text-transform: uppercase;
+  color: #fff;
+}
+.footer-section .t p {
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+}
+.social-icons ul {
+  padding: 0px;
+  margin: 0px 0px 0px -7px;
+  width: 100%;
+  text-align: left;
+}
+.social-icons ul li {
+  list-style: none;
+  display: inline-block;
+}
+.social-icons ul li a {
+  display: block;
+  text-align: center;
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  border-radius: 100%;
+  background: #fff;
+  color: #000;
+  margin: 0px 0px 0px 10px;
+}
+.social-icons ul li a:hover,
+.social-icons ul li a:focus {
+  background: transparent;
+  color: #e8631c;
+  border: 1px solid #e8631c;
+}
+.footer-section .line {
+  width: 100%;
+}
+.footer-section .line ul {
+  margin: 0px;
+  padding: 0px;
+}
+.footer-section .line ul li {
+  list-style: none;
+  display: block;
+}
+.footer-section .line ul li a {
+  display: block;
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+  margin: 0px 0px 10px 0px;
+}
+.footer-section .line .active {
+  font-size: 30px;
+  line-height: 40px;
+  text-transform: uppercase;
+  color: #fff;
+  font-size: ;
+}
+.footer-section .copyrights {
+  padding: 30px 0px 0px;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+  text-align: center;
+}
+/*footer-section section css code end here*/
